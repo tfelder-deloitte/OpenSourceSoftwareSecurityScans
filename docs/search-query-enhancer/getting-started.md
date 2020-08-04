@@ -60,3 +60,5 @@ The search query enhancer function can be used in conjunction with the [Query Mo
 | Entity | Type | Description | Recognition method |
 | ------ | ---- | ----------- | ------------ |
 | **[keyPhrase](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-quickstart-intent-and-key-phrase)** | Builtin | This prebuilt enity catches important keywords in the phrase. In this case, we treat these values as a "free" keyword which will be matched with all relevant SharePoint search managed properties. | Machine Learning
+
+**Adding Data for PR
