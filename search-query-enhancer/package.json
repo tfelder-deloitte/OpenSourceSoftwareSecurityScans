@@ -48,7 +48,7 @@
     "copy-webpack-plugin": "6.1.1",
     "cp-cli": "2.0.0",
     "jest": "26.4.2",
-    "standard-version": "8.0.1",
+    "standard-version": "9.0.0",
     "ts-jest": "26.4.1",
     "tslint": "5.20.1",
     "typescript": "2.6.2",
