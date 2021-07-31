@@ -74,7 +74,7 @@
         "@webcomponents/custom-elements": "1.4.3",
         "@webcomponents/webcomponentsjs": "2.5.0",
         "ajv": "8.6.2",
-        "css-loader": "5.2.7",
+        "css-loader": "6.2.0",
         "css-modules-typescript-loader": "4.0.1",
         "del": "6.0.0",
         "fork-ts-checker-webpack-plugin": "6.2.13",
